@@ -1,0 +1,175 @@
+Date,Text,Mood_Score,Mood_Label,Suggestion
+2025-06-13 19:24:16,"Dear Diary,
+Today felt like a long, slow slide into an empty room. The sun looked weak, and the breeze felt heavy. I spent the afternoon staring out the window, watching the world go by without me. It's like a part of me is missing, a piece that used to bring joy, but now just leaves a hollow ache. I keep thinking about the things I used to love, the things I used to do, and now they feel distant, like a faded photograph.
+I can't shake this feeling of sadness. It feels like a weight on my chest, a constant reminder that things are not as they should be. I don't know when it will pass, or if it ever will. 
+Goodnight.",0.8889,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:25:00,"Dear Diary,
+Today felt like a long, slow slide into an empty room. The sun looked weak, and the breeze felt heavy. I spent the afternoon staring out the window, watching the world go by without me. It's like a part of me is missing, a piece that used to bring joy, but now just leaves a hollow ache. I keep thinking about the things I used to love, the things I used to do, and now they feel distant, like a faded photograph.
+I can't shake this feeling of sadness. It feels like a weight on my chest, a constant reminder that things are not as they should be. I don't know when it will pass, or if it ever will. 
+Goodnight.",0.8889,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:25:25,"Today was a good day. I shared a funny joke with Sarah and we both laughed a lot. The sun was shining, and I enjoyed a delicious cup of tea this afternoon. I'm grateful for the simple things that bring me joy",0.9781,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:25:37,I am very sad today,-0.5256,Very Negative,You seem really down. Please consider reaching out to someone you trust 💙
+2025-06-13 19:26:19,i am happy,0.5719,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:26:26,i am depressed,-0.5106,Very Negative,You seem really down. Please consider reaching out to someone you trust 💙
+2025-06-13 19:26:38,i am ok,0.296,Positive,You sound good! Maybe treat yourself to something nice 😊
+2025-06-13 19:26:46,cryyyyyyyyyyyyy,0.0,Neutral,A neutral mood is perfectly fine. Stay mindful 🧘
+2025-06-13 19:26:54,crying,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:27:03,walking,0.0,Neutral,A neutral mood is perfectly fine. Stay mindful 🧘
+2025-06-13 19:27:08,running,0.0,Neutral,A neutral mood is perfectly fine. Stay mindful 🧘
+2025-06-13 19:27:21,blasting from pain,-0.5106,Very Negative,You seem really down. Please consider reaching out to someone you trust 💙
+2025-06-13 19:28:58,feeling creepy,0.128,Positive,You sound good! Maybe treat yourself to something nice 😊
+2025-06-13 19:38:21,I am very dissapointed today,0.0,Neutral,A neutral mood is perfectly fine. Stay mindful 🧘
+2025-06-13 19:38:42,I am very sad today,-0.5256,Very Negative,You seem really down. Please consider reaching out to someone you trust 💙
+2025-06-13 19:38:50,I am very happy today,0.6115,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:39:00,I am very happy today,0.6115,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:39:07,I am very happy today,0.6115,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:39:10,I am very happy today,0.6115,Very Positive,You seem really happy today! Keep spreading positivity ✨
+2025-06-13 19:42:30,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:17,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:17,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:18,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:18,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:18,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:18,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:20,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:44:34,I am crying in a corner of my room.,-0.4767,Negative,Seems like you're having a rough day. Consider talking to a friend ☁️
+2025-06-13 19:54:08,I am scared,,Disgust,You're put off by something. Take a moment to understand why and reset 🧼
+2025-06-13 19:54:51,"Today started off on a stressful note. I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Fear,Something’s worrying you. Talk it out with someone you trust 🫂
+2025-06-13 19:55:06,hello,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:07,"today I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:12,"today I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:12,"today I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:13,"today I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:13,"today I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:13,"today I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-13 19:56:27,"Today started off on a stressful note. I got stuck in heavy traffic on my way to work, and ended up arriving late. As soon as I walked into the office, my manager confronted me about my tardiness, which only added to my anxiety.
+
+I felt my heart rate skyrocket and my palms start to sweat. All I wanted to do was run to the bathroom and cry. I hate being late, and I felt like I was already starting the day off on the wrong foot. As the day went on, my anxiety gradually subsided, and I was able to focus on my work and be productive.
+
+Next time, I hope to remember to pause and take a few deep breaths while I remind myself that the traffic was out of my control. I couldn’t have predicted the delay, and I did the best I could under the circumstances. I also need to remember that being late once doesn’t make me a bad employee.
+
+In the future, I’ll try to leave earlier to avoid getting stuck in traffic, but I also know that sometimes unexpected delays happen, and it’s important to be kind and patient with myself when they do.",,Fear,Something’s worrying you. Talk it out with someone you trust 🫂
+2025-06-13 19:57:14,"Last night, I dreamed I was flying over the ocean, soaring through the sky with my arms outstretched. The sun was shining bright and the sky was a brilliant shade of blue. I felt a sense of freedom and exhilaration as I flew higher and higher. As I looked down, I could see the waves crashing against the shore and schools of fish swimming in the clear water. Suddenly, I felt a gust of wind and began to lose altitude. I panicked and flapped my arms frantically, trying to stay afloat. Just as I was about to crash into the water, I woke up.",,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-13 19:58:00,"Today, I am incredibly frustrated with the constant delays at the train station. It's been an hour, and the announcement still hasn't said anything concrete. Why do they have to leave everyone hanging like this? It's disrespectful to our time and energy",,Anxiety,You seem tense. Take a deep breath and slow down 💆
+2025-06-13 19:59:17,"I will kill you, you ******",,Sadness,It’s okay to feel down. Let yourself rest and recharge 🛌
+2025-06-13 19:59:26,"I will kill you, you bustard",,Sadness,It’s okay to feel down. Let yourself rest and recharge 🛌
+2025-06-13 19:59:27,"I will kill you, you bustard",,Sadness,It’s okay to feel down. Let yourself rest and recharge 🛌
+2025-06-13 19:59:49,i am angry,,Disgust,You're put off by something. Take a moment to understand why and reset 🧼
+2025-06-14 03:19:53,"June 14, 2025
+
+The party was a blur. Everyone seemed to be laughing, talking, and enjoying themselves, but I felt like I was watching from behind a glass wall. No one really noticed me, and I didn't know how to break through. I ended up spending most of the night by myself, nursing a drink and feeling utterly invisible. It's like I'm on the outside looking in, and no one is reaching out to pull me in. Maybe I'm just not meant to be part of this world.",,Joy,You’re radiating happiness! Share your light with others today.
+2025-06-14 03:20:24,"June 14, 2025
+
+The party was a blur. Everyone seemed to be talking, and enjoying themselves, but I felt like I was watching from behind a glass wall. No one really noticed me, and I didn't know how to break through. I ended up spending most of the night by myself, nursing a drink and feeling utterly invisible. It's like I'm on the outside looking in, and no one is reaching out to pull me in. Maybe I'm just not meant to be part of this world.",,Joy,You’re radiating happiness! Share your light with others today.
+2025-06-14 03:20:30,"June 14, 2025
+
+The  was a blur. Everyone seemed to be talking, and enjoying themselves, but I felt like I was watching from behind a glass wall. No one really noticed me, and I didn't know how to break through. I ended up spending most of the night by myself, nursing a drink and feeling utterly invisible. It's like I'm on the outside looking in, and no one is reaching out to pull me in. Maybe I'm just not meant to be part of this world.",,Joy,You’re radiating happiness! Share your light with others today.
+2025-06-14 03:20:39,"June 14, 2025
+
+The was a blur. Everyone seemed to be talking, and enjoying themselves, but I felt like I was watching from behind a glass wall. No one really noticed me, and I didn't know how to break through. I ended up spending most of the night by myself, nursing a drink and feeling utterly invisible. It's like I'm on the outside looking in, and no one is reaching out to pull me in. Maybe I'm just not meant to be a sad part of this world.",,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:20:49,"June 14, 2025
+
+The party was a blur. Everyone seemed to be talking, and enjoying themselves, but I felt like I was watching from behind a glass wall. No one really noticed me, and I didn't know how to break through. I ended up spending most of the night by myself, nursing a drink and feeling utterly invisible. It's like I'm on the outside looking in, and no one is reaching out to pull me in. Maybe I'm just not meant to be a sad part of this world.",,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:22:26,"June 14, 2025
+
+Everyone is so loud that I am having headach",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:22:31,"June 14, 2025
+
+Everyone is so loud that I am having headache",,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:22:55,"June 14, 2025
+
+Everyone is so calm that I am feeling empty",,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:23:10,"June 14, 2025
+
+Everyone is so calm that I am feeling lonely",,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:23:20,"June 14, 2025
+
+Everyone is so silent that I am feeling lonely",,Fear,Something’s worrying you. Talk it out with someone you trust 🫂
+2025-06-14 03:23:36,"June 14, 2025
+
+Everyone is so silent that I am feeling scared",,Fear,Something’s worrying you. Talk it out with someone you trust 🫂
+2025-06-14 03:23:42,"June 14, 2025
+
+Everyone is so silent that I am feeling scared!",,Disgust,You're put off by something. Take a moment to understand why and reset 🧼
+2025-06-14 03:23:44,"June 14, 2025
+
+Everyone is so silent that I am feeling scared",,Fear,Something’s worrying you. Talk it out with someone you trust 🫂
+2025-06-14 03:24:45,I am glad to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:25:54,I am happy to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:25:55,I am happy to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:25:55,I am happy to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:25:56,I am happy to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:25:56,I am happy to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:25:56,I am happy to presenting this project with everyone,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:04,I am happy to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:05,I am happy to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:05,I am happy to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:05,I am happy to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:05,I am happy to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:12,I am glad to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:13,I am glad to presenting this project with you,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:30,I made a new friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:30,I made a new friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:31,I made a new friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:33,I made a new friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:47,I am very sad,,Disgust,You're put off by something. Take a moment to understand why and reset 🧼
+2025-06-14 03:26:56,I made a new friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:26:58,I made a new friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:27:17,I am going to vacation after exam,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:27:31,I am going to vacation after exam and I am so exited about it.,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:27:31,I am going to vacation after exam and I am so exited about it.,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:27:31,I am going to vacation after exam and I am so exited about it.,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:28:01,I meet with my old friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:28:07,I meet with one of my old friend today,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
+2025-06-14 03:28:26,i bought a new dress today,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:28:31,i bought a new red dress today,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:28:34,i bought a new red dress,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:28:46,I am going to paris,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:28:46,I am going to paris,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:28:50,I am going to paris!!,,Boredom,Things feel dull? Try doing something new or creative today 🎨
+2025-06-14 03:29:13,"its sunny outside, perfect weather for outing",,Joy,You’re radiating happiness! Share your light with others today.
+2025-06-14 03:29:23,"its sunny outside, perfect weather for picnic!",,Joy,You’re radiating happiness! Share your light with others today.
+2025-06-14 03:29:24,"its sunny outside, perfect weather for picnic!",,Joy,You’re radiating happiness! Share your light with others today.
+2025-06-29 11:18:43,hi happy,,Envy,You might be comparing yourself to others. Focus on your own growth 🌱
